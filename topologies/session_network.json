@@ -1,0 +1,9 @@
+
+{
+  "nodes": ["PC1", "Router1", "Router2", "Server1"],
+  "links": [
+    ["PC1", "Router1"],
+    ["Router1", "Router2"],
+    ["Router2", "Server1"]
+  ]
+}
